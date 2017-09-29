@@ -1,0 +1,34 @@
+/*Global selectors*/
+* {
+  font-family: Helvetica;
+}
+/* CSS required for web page header (or) title of company */
+.banner {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  vertical-align: middle;
+  text-align: center;
+}
+/*CSS required for styling the page section for each product*/
+.section-header {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+/* Background colors for the sections */
+.background-springgreen {
+  background-color: mediumSpringGreen;
+}
+.background-lightcoral {
+  background-color: lightcoral;
+}
+.background-skyblue {
+  background-color: skyblue;
+}
+/* Styles for the price/ product */
+.price-tag {
+  color: blue;
+  font-weight: bold;
+}
