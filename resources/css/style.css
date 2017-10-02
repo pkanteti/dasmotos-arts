@@ -3,8 +3,8 @@
   font-family: Helvetica;
 }
 /* CSS required for web page header (or) title of company */
-.banner {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+#banner {
+  background-image: url("../images/pattern.jpeg");
   font-size: 100px;
   font-weight: bold;
   color: khaki;
@@ -17,14 +17,13 @@
   font-weight: bold;
   color: white;
 }
-/* Background colors for the sections */
-.background-springgreen {
+#brushes {
   background-color: mediumSpringGreen;
 }
-.background-lightcoral {
+#frames {
   background-color: lightcoral;
 }
-.background-skyblue {
+#paint {
   background-color: skyblue;
 }
 /* Styles for the price/ product */
